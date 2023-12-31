@@ -1,0 +1,6 @@
+- https://www.pentest-standard.org/index.php/
+- https://www.codecademy.com/article/blue-team-tools
+- https://securitytrails.com/blog/blue-team-tools
+- https://github.com/A-poc/BlueTeam-Tools
+- tools for blue team
+- https://learn.cisecurity.org/cis-cat-lite
