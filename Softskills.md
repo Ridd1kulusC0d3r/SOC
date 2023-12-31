@@ -1,41 +1,41 @@
-# Habilidades Essenciais para um Analista de SOC
+# Soft Skills Cruciais para um Analista de SOC
 
 ## Índice
-1. [Conhecimento em Segurança Cibernética](#1-conhecimento-em-segurança-cibernética)
-2. [Habilidades em Análise de Dados](#2-habilidades-em-análise-de-dados)
-3. [Conhecimentos em Sistemas e Redes](#3-conhecimentos-em-sistemas-e-redes)
-4. [Habilidades em Incident Response](#4-habilidades-em-incident-response)
-5. [Conhecimento de Leis e Normativas](#5-conhecimento-de-leis-e-normativas)
-6. [Habilidades de Comunicação](#6-habilidades-de-comunicação)
-7. [Trabalho em Equipe e Colaboração](#7-trabalho-em-equipe-e-colaboração)
-8. [Pensamento Crítico e Resolução de Problemas](#8-pensamento-crítico-e-resolução-de-problemas)
-9. [Aprendizado Contínuo](#9-aprendizado-contínuo)
+1. [Comunicação Eficaz](#1-comunicação-eficaz)
+2. [Trabalho em Equipe](#2-trabalho-em-equipe)
+3. [Resolução de Problemas](#3-resolução-de-problemas)
+4. [Pensamento Crítico](#4-pensamento-crítico)
+5. [Gestão de Stress](#5-gestão-de-stress)
+6. [Adaptabilidade](#6-adaptabilidade)
+7. [Atenção aos Detalhes](#7-atenção-aos-detalhes)
+8. [Aprendizado Contínuo](#8-aprendizado-contínuo)
+9. [Ética e Integridade](#9-ética-e-integridade)
 
-## 1. Conhecimento em Segurança Cibernética
-- Entendimento profundo de ameaças cibernéticas, vulnerabilidades e contra-medidas.
+## 1. Comunicação Eficaz
+- Habilidade para comunicar informações complexas de segurança de forma clara a diferentes públicos.
 
-## 2. Habilidades em Análise de Dados
-- Capacidade de analisar grandes volumes de dados de segurança para identificar padrões anormais.
+## 2. Trabalho em Equipe
+- Capacidade de trabalhar colaborativamente com colegas e outros departamentos.
 
-## 3. Conhecimentos em Sistemas e Redes
-- Entendimento de sistemas operacionais, redes e protocolos de comunicação.
+## 3. Resolução de Problemas
+- Habilidade para identificar e resolver problemas de maneira criativa e eficaz.
 
-## 4. Habilidades em Incident Response
-- Competência para responder a incidentes de segurança, incluindo identificação, contenção e erradicação de ameaças.
+## 4. Pensamento Crítico
+- Capacidade de analisar situações complexas e tomar decisões fundamentadas.
 
-## 5. Conhecimento de Leis e Normativas
-- Compreensão de leis e regulamentações de segurança da informação relevantes.
+## 5. Gestão de Stress
+- Habilidade para manter a calma e eficiência sob pressão, especialmente durante incidentes de segurança.
 
-## 6. Habilidades de Comunicação
-- Capacidade de comunicar eficazmente, tanto por escrito quanto verbalmente, com diferentes partes interessadas.
+## 6. Adaptabilidade
+- Flexibilidade para se adaptar a novas tecnologias, procedimentos e mudanças no ambiente de trabalho.
 
-## 7. Trabalho em Equipe e Colaboração
-- Habilidade para trabalhar eficientemente em equipe e colaborar com outros departamentos.
+## 7. Atenção aos Detalhes
+- Foco em detalhes precisos, essencial para identificar ameaças e vulnerabilidades.
 
-## 8. Pensamento Crítico e Resolução de Problemas
-- Habilidade para pensar criticamente e resolver problemas complexos de segurança.
+## 8. Aprendizado Contínuo
+- Compromisso com o desenvolvimento pessoal e profissional contínuo.
 
-## 9. Aprendizado Contínuo
-- Compromisso com o aprendizado contínuo e atualização constante em um campo que está sempre evoluindo.
+## 9. Ética e Integridade
+- Forte senso de ética e integridade, crucial no manejo de informações sensíveis.
 
-Estas habilidades são fundamentais para o sucesso na carreira de um analista de SOC.
+Essas soft skills são fundamentais para o desempenho efetivo de um analista de SOC, complementando as habilidades técnicas necessárias para a função.
