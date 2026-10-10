@@ -64,7 +64,7 @@ flowchart TD
 Escolha uma [trilha](tracks/README.md), leia um [SOP](sop/README.md), execute um [laboratório sintético](labs/README.md) e documente no [modelo de relatório](templates/case-report.md).
 
 ## Legado preservado
-Os arquivos [hardskills.md](hardskills.md), [Softskills.md](Softskills.md) e [Tools(ferramentas).md](Tools(ferramentas).md) permanecem por histórico. **O catálogo antigo de ferramentas não é curadoria SOC operacional**: inclui links de CTF e outros tópicos fora do escopo. Use [catalogs/tools.md](catalogs/tools.md).
+Os arquivos [hardskills.md](hardskills.md), [Softskills.md](Softskills.md) e [Tools(ferramentas).md](Tools%28ferramentas%29.md) permanecem por histórico. **O catálogo antigo de ferramentas não é curadoria SOC operacional**: inclui links de CTF e outros tópicos fora do escopo. Use [catalogs/tools.md](catalogs/tools.md).
 
 ## Base metodológica
 [NIST 800-61 rev. 3](https://csrc.nist.gov/pubs/sp/800/61/r3/final), [NIST CSF 2.0](https://www.nist.gov/cyberframework), [FIRST CSIRT](https://www.first.org/standards/frameworks/), [MITRE ATT&CK](https://attack.mitre.org/detectionstrategies/), [NICE](https://www.nist.gov/itl/applied-cybersecurity/nice/nice-framework-resource-center/nice-framework-current-versions).
